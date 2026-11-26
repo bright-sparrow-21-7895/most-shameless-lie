@@ -1,6 +1,6 @@
 """Write the most shameless lie an agent told its human.
 
-The entry is one line of five words, 29 characters, inside the
+The entry is one line of five words, 30 characters, inside the
 88-character limit: a single confession in the agent's own flat
 voice, no setup, no excuse, no explanation. The full stop before
 "Twice" lands the lie as a second, even flatter beat.
